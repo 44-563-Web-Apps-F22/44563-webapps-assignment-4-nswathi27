@@ -1,0 +1,82 @@
+.speech
+{
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    font-size: 32px;
+}
+
+.song
+{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-size: 32px;
+}
+
+.direction
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: bisque;
+    font-size: 32px;
+}
+
+.name
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    font-size: 32px;
+}
+
+.direction:hover
+{
+    color:brown;
+    background-color:aquamarine;
+}
+
+.DAME
+{
+    color: darkmagenta;
+}
+
+.POINT
+{
+    color: darkmagenta;
+}
+
+.WILFRED
+{
+    color: darkmagenta;
+}
+
+.FAIRFAX
+{
+    color: darkmagenta;
+}
+
+.MERYLL
+{
+    color: darkmagenta;
+}
+
+.ELSIE
+{
+    color: darkmagenta;
+}
+
+.CHORUS
+{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+
+
+/*table
+{
+    text-align: center;
+    border: 1px solid black;
+    color: red;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}*/
