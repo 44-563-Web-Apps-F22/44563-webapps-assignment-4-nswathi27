@@ -100,3 +100,32 @@ td, th {
 tr:nth-child(even) {
     background-color: #b5aeae;
 }
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(234, 150, 150);
+    width: 25%;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(58, 20, 230);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: rgb(240, 236, 236);
+  }
+
+  img{
+    width: 100%;
+  }
