@@ -26,6 +26,11 @@
     font-size: 15px;
 }
 
+.name:hover
+{
+    background-color:blueviolet;
+}
+
 .direction:hover
 {
     color:brown;
@@ -67,6 +72,10 @@
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
+.ALL
+{
+    color:rgb(88, 222, 117);
+}
 
 
 
