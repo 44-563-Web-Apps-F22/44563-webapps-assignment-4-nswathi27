@@ -29,6 +29,9 @@
 .name:hover
 {
     background-color:blueviolet;
+    text-shadow: 1px 1px 2px black, 0 0 25px rgb(245, 245, 248), 0 0 5px rgb(218, 235, 35);
+    box-shadow: 10px 5px 5px rgb(237, 91, 206);
+    color: blanchedalmond;
 }
 
 .direction:hover
