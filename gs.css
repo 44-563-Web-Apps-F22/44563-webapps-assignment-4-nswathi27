@@ -2,28 +2,28 @@
 {
     font-family: 'Courier New', Courier, monospace;
     color: black;
-    font-size: 32px;
+    font-size: 15px;
 }
 
 .song
 {
     font-family: Arial, Helvetica, sans-serif;
     color: black;
-    font-size: 32px;
+    font-size: 15px;
 }
 
 .direction
 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     background-color: bisque;
-    font-size: 32px;
+    font-size: 15px;
 }
 
 .name
 {
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: black;
-    font-size: 32px;
+    font-size: 15px;
 }
 
 .direction:hover
@@ -34,32 +34,32 @@
 
 .DAME
 {
-    color: darkmagenta;
+    color:rgb(88, 222, 117);
 }
 
 .POINT
 {
-    color: darkmagenta;
+    color:rgb(88, 222, 117);
 }
 
 .WILFRED
 {
-    color: darkmagenta;
+    color:rgb(88, 222, 117);
 }
 
 .FAIRFAX
 {
-    color: darkmagenta;
+    color:rgb(88, 222, 117);
 }
 
 .MERYLL
 {
-    color: darkmagenta;
+    color:rgb(88, 222, 117);
 }
 
 .ELSIE
 {
-    color: darkmagenta;
+    color:rgb(88, 222, 117);
 }
 
 .CHORUS
